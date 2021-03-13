@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1073814258061",
+    "firebase_url": "https://onwordslog-44bfa.firebaseio.com",
+    "project_id": "onwordslog-44bfa",
+    "storage_bucket": "onwordslog-44bfa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073814258061:android:6c28b43fe333c488a43dc4",
+        "android_client_info": {
+          "package_name": "com.example.smart_log"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1073814258061-ht3pb19acm4nohuoa5hr0oe3p7odh2hu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR7joSk1tICvhJ6qRrJ-42F2Z2oMZ5SPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1073814258061-ht3pb19acm4nohuoa5hr0oe3p7odh2hu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073814258061:android:b09386f9897c1a2fa43dc4",
+        "android_client_info": {
+          "package_name": "com.example.smart_log_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1073814258061-ht3pb19acm4nohuoa5hr0oe3p7odh2hu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR7joSk1tICvhJ6qRrJ-42F2Z2oMZ5SPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1073814258061-ht3pb19acm4nohuoa5hr0oe3p7odh2hu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
